@@ -1,4 +1,4 @@
-# README - Atividade 1: Temporizador Periódico (Semáforo)
+# Atividade 1: Temporizador Periódico (Semáforo)
 
 ## Descrição
 Este projeto implementa um semáforo utilizando a Raspberry Pi Pico W e a biblioteca Pico SDK. O semáforo alterna entre os LEDs vermelho, amarelo e verde a cada 3 segundos usando um temporizador periódico (`add_repeating_timer_ms()`).
